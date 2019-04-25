@@ -13,7 +13,7 @@ public class Komputer {
     
     public void memasang(CPU cpu){
         this.cpu = cpu;
-        System.out.println("CPU: "+this.cpu.getCPUData()+" GHz dipasang.");
+        System.out.println("CPU: "+this.cpu.getCPUData()+" GHz dipasang."); //isi/nilai pada this.cpu.getCPUData() yg sblumnya berisi nilai pd method Intel tergantikan dg nilai baru pd method AMD
     }
     
     public void mencabut(CPU cpu){
