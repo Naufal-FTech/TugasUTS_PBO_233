@@ -1,5 +1,5 @@
 # TugasUTS_PBO_233
 
-Nama  : Naufal Farras Dhafran W.
-\nNIM   : 201810370311233
-\nKelas : 2F Informatika
+# Nama  : Naufal Farras Dhafran W.
+# NIM   : 201810370311233
+# Kelas : 2F Informatika
